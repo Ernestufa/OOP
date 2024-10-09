@@ -129,11 +129,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Timirbaev_Defect_Product.cpp" />
     <ClCompile Include="Timirbaev_Ernest_AS-22-04_OOP.cpp" />
     <ClCompile Include="Timirbaev_Product.cpp" />
     <ClCompile Include="Timirbaev_Warehouse.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Timirbaev_Defect_Product.h" />
     <ClInclude Include="Timirbaev_Product.h" />
     <ClInclude Include="Timirbaev_Utils.h" />
     <ClInclude Include="Timirbaev_Warehouse.h" />

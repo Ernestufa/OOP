@@ -18,14 +18,15 @@ int main()
     while (true) {
         cout << endl << "Выбор команды\n"
             << "1. Добавить товар\n"
-            << "2. Информация о товаре\n"
-            << "3. Загрузить из файла\n"
-            << "4. Сохранить в файл\n"
-            << "5. Очистить список\n"
+            << "2. Добавить бракованный товар\n"
+            << "3. Информация о товаре\n"
+            << "4. Загрузить из файла\n"
+            << "5. Сохранить в файл\n"
+            << "6. Очистить список\n"
             << "0. Выход\n"
-            << endl << "Введите номер от 0 до 5: ";
+            << endl << "Введите номер от 0 до 6: ";
 
-        switch (GetCorrectNumber(0, 5)) {
+        switch (GetCorrectNumber(0, 6)) {
         case 0: {
             exit(0);
             break;
@@ -35,22 +36,24 @@ int main()
             break;
         }
         case 2: {
-            products.ViewProducts();
+            products.AddDefectProduct();
             break;
         }
         case 3: {
-            products.Dowloand();
+            products.ViewProducts();
             break;
         }
         case 4: {
-            products.Save();
+            //products.Dowloand();
             break;
         }
         case 5: {
-            products.DeleteProducts();
+            //products.Save();
             break;
         }
-        default: {cout << "Ошибка! Введите номер от 0 до 5" << endl; }
+        case 6: {
+            products.DeleteProducts();
+            break; }
         }
     }
 }
