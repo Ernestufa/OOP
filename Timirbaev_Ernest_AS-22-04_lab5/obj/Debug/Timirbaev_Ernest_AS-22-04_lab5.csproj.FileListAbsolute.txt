@@ -1,0 +1,7 @@
+C:\Users\timir\Documents\GitHub\OOP\Timirbaev_Ernest_AS-22-04_lab5\obj\Debug\Timirbaev_Ernest_AS-22-04_lab5.csproj.AssemblyReference.cache
+C:\Users\timir\Documents\GitHub\OOP\Timirbaev_Ernest_AS-22-04_lab5\obj\Debug\Timirbaev_Ernest_AS-22-04_lab5.csproj.CoreCompileInputs.cache
+C:\Users\timir\Documents\GitHub\OOP\Timirbaev_Ernest_AS-22-04_lab5\bin\Debug\Timirbaev_Ernest_AS-22-04_lab5.exe.config
+C:\Users\timir\Documents\GitHub\OOP\Timirbaev_Ernest_AS-22-04_lab5\bin\Debug\Timirbaev_Ernest_AS-22-04_lab5.exe
+C:\Users\timir\Documents\GitHub\OOP\Timirbaev_Ernest_AS-22-04_lab5\bin\Debug\Timirbaev_Ernest_AS-22-04_lab5.pdb
+C:\Users\timir\Documents\GitHub\OOP\Timirbaev_Ernest_AS-22-04_lab5\obj\Debug\Timirbaev_Ernest_AS-22-04_lab5.exe
+C:\Users\timir\Documents\GitHub\OOP\Timirbaev_Ernest_AS-22-04_lab5\obj\Debug\Timirbaev_Ernest_AS-22-04_lab5.pdb

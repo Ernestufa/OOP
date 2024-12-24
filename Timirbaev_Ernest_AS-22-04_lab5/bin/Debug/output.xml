@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfTimirbaev_Product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Timirbaev_Product>
+    <name>er</name>
+    <article>0</article>
+    <type>Техника</type>
+    <capacity>12</capacity>
+  </Timirbaev_Product>
+  <Timirbaev_Product xsi:type="Timirbaev_Defect_Product">
+    <name>we</name>
+    <article>0</article>
+    <type>Химия</type>
+    <capacity>4</capacity>
+    <type_of_defect>Загрязнения</type_of_defect>
+    <isDisposal>false</isDisposal>
+  </Timirbaev_Product>
+  <Timirbaev_Product xsi:type="Timirbaev_Defect_Product">
+    <name>dfg</name>
+    <article>0</article>
+    <type>Пищевая продукция</type>
+    <capacity>50</capacity>
+    <type_of_defect>Другое</type_of_defect>
+    <isDisposal>true</isDisposal>
+  </Timirbaev_Product>
+  <Timirbaev_Product>
+    <name>dfg</name>
+    <article>0</article>
+    <type>Техника</type>
+    <capacity>10</capacity>
+  </Timirbaev_Product>
+</ArrayOfTimirbaev_Product>
